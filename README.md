@@ -4,5 +4,5 @@ Trackas and contains the page layouts and content items necessary for this live 
 
 ## TODO
 
--[] create a test page layout
--[] create navbar
+- [] create a test page layout
+- [] create navbar
